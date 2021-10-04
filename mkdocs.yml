@@ -1,0 +1,9 @@
+site_name: Anotações pro ENEM
+site_url: https://example.com/
+site_author: Mariana Amina
+
+theme:
+  name: material
+  language: pt
+  palette: 
+    primary: purple
